@@ -11,8 +11,6 @@ public class User {
 
     private Integer rid;
 
-    //test
-
 
 
     //get set方法
