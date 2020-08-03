@@ -11,4 +11,6 @@ public class User {
 
     private Integer rid;
 
+    //test
+
 }
