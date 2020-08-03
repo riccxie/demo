@@ -11,4 +11,6 @@ public class User {
 
     private Integer uid;
 
+    //get set方法
+
 }
