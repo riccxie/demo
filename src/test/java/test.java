@@ -5,4 +5,8 @@ public class test {
     }
 
     private Integer id;
+
+    private String email;
+
+    private Integer age;
 }
